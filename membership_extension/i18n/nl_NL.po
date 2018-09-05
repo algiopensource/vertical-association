@@ -1,29 +1,31 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * membership_extension
-# 
+#
 # Translators:
-# Mario Gielissen <mario@openworx.nl>, 2016
+# OCA Transbot <transbot@odoo-community.org>, 2016
+# Peter Hageman <hageman.p@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-26 04:01+0000\n"
-"PO-Revision-Date: 2016-11-26 04:01+0000\n"
-"Last-Translator: Mario Gielissen <mario@openworx.nl>, 2016\n"
-"Language-Team: Dutch (Netherlands) (https://www.transifex.com/oca/teams/23907/nl_NL/)\n"
+"POT-Creation-Date: 2017-09-02 15:39+0000\n"
+"PO-Revision-Date: 2017-09-02 15:39+0000\n"
+"Last-Translator: Peter Hageman <hageman.p@gmail.com>, 2017\n"
+"Language-Team: Dutch (Netherlands) (https://www.transifex.com/oca/"
+"teams/23907/nl_NL/)\n"
+"Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. module: membership_extension
 #: code:addons/membership_extension/models/membership_line.py:69
 #, python-format
 msgid ""
-"Can not remove membership line related to an invoice. Please, cancel invoice"
-" or remove invoice line instead"
+"Can not remove membership line related to an invoice. Please, cancel invoice "
+"or remove invoice line instead"
 msgstr ""
 
 #. module: membership_extension
@@ -40,12 +42,12 @@ msgstr ""
 #. module: membership_extension
 #: field:membership.membership_category,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Aangemaakt door"
 
 #. module: membership_extension
 #: field:membership.membership_category,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Aangemaakt op"
 
 #. module: membership_extension
 #: field:product.product,taxes_id:0
@@ -65,7 +67,7 @@ msgstr ""
 #. module: membership_extension
 #: field:membership.membership_category,display_name:0
 msgid "Display Name"
-msgstr ""
+msgstr "Weergavenaam"
 
 #. module: membership_extension
 #: view:res.partner:membership_extension.view_res_partner_member_filter
@@ -85,7 +87,7 @@ msgstr ""
 #. module: membership_extension
 #: field:membership.membership_category,id:0
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: membership_extension
 #: field:product.product,property_account_income:0
@@ -95,17 +97,17 @@ msgstr ""
 #. module: membership_extension
 #: model:ir.model,name:membership_extension.model_account_invoice
 msgid "Invoice"
-msgstr ""
+msgstr "Factuur"
 
 #. module: membership_extension
 #: model:ir.model,name:membership_extension.model_account_invoice_line
 msgid "Invoice Line"
-msgstr ""
+msgstr "Factuurregel"
 
 #. module: membership_extension
 #: field:membership.membership_category,__last_update:0
 msgid "Last Modified on"
-msgstr ""
+msgstr "Laatst gewijzigd op"
 
 #. module: membership_extension
 #: view:res.partner:membership_extension.view_res_partner_member_filter
@@ -115,12 +117,12 @@ msgstr ""
 #. module: membership_extension
 #: field:membership.membership_category,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Laatst bijgewerkt door"
 
 #. module: membership_extension
 #: field:membership.membership_category,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Laatst bijgewerkt op"
 
 #. module: membership_extension
 #: model:membership.membership_category,name:membership_extension.membership_category_member
@@ -191,7 +193,7 @@ msgstr ""
 #. module: membership_extension
 #: field:membership.membership_category,name:0
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #. module: membership_extension
 #: model:ir.model,name:membership_extension.model_res_partner
